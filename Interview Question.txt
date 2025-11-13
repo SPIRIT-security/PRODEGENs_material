@@ -1,0 +1,30 @@
+Background:
+  1.	How many years of experience do you have in UI/UX design?
+  2.	What is the size of your company or team? What is your role?
+  3.	What types of interfaces do you primarily design (web, mobile apps, or multiple platforms)?
+  4.	Which non AI UI design tools do you usually work with (e.g., Figma)?
+  5.	What AI-powered UI generation tools (e.g., Figma Make, Lovable, Vercel V0) do you use? 
+    a.	How often do you use it? 
+    b.	Which ones do you use most often? 
+    c.	Why do you use them?
+    d.	Roughly what percentage of your design process involves AI-generated interfaces? 
+    e.	In what ways do you typically use AI to support your work?
+    f.	What do you like about AI UI tools?
+    g.	What do you dislike about AI UI tools?
+    h.	What problems do you encounter when using AI UI tools?
+
+
+Dark Patterns 
+  1.	Have you heard of the term dark patterns?
+  2.	Did you notice any dark patterns in the UI design?
+    a.	If yes, what were they?
+    b.	If no or unsure, [explain what the DP is and which part of the UI is DP]
+  3.	Why do you think the dark pattern(s) appeared in the design?
+  4.	Which part of prompts would you think will result dark pattern?
+  5.	What are your thoughts on the presence of such dark patterns?
+  6.	How do you think users would react to these dark patterns? Would it affect their experience? Would it bring any harm to the users?
+  7.	How do you think your company or your team would view these dark patterns? What actions might they take?
+  8.	Should these dark patterns be kept or removed? Why?
+    a.	[Regardless of whether participants agree or disagree] how to improve the prompt to avoid these dark patterns?
+    b.	Are there other ways (technical or non technical, within or outside Figma) to avoid these dark patterns?
+
