@@ -70,7 +70,7 @@ Please use this account to access Figma Make​
 a. [if yes, continue; if not, explain what the DP is]
 
 Definition of Dark Pattern: <br>
-“Dark patterns are used in websites and apps that make users do things that they didn't intend to”
+	“Dark patterns are used in websites and apps that make users do things that they didn't intend to”
 
 <img src="example_dp.jpg" width="600">
 
