@@ -18,7 +18,7 @@
 (G) Prefer not to say
 6. What AI-powered UI design tool(s) have you used? [open text box] <br>
 7. Are you able to participate in the study via Zoom (audio and screen sharing required; video optional)?<br>
-	(A) yes (B) no
+	(A) yes (B) no <br>
 8. Thanks very much for your interest in our study. We will contact you to schedule the study. Please enter an email address by which we can contact you. [open text box] <br>
 9. If you have any other questions or information, please enter them here. [open text box] <br>
 
