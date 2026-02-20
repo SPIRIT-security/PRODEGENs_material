@@ -20,7 +20,7 @@ Sentences that influenced or contributed to the generation of DPs (Derived Phras
 
 3. Study Procedure
 
-The full set of interview questions used during the data collection process.
+The complete study procedure is fully described in detail in study.md.
 These are provided to support reproducibility and transparency in the research methodology.
 
 Ethical Considerations
