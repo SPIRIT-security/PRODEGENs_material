@@ -18,7 +18,7 @@ These have been de-identified to remove any potentially sensitive information.
 
 Sentences that influenced or contributed to the generation of DPs (Derived Phrases / Data Points) during the study.
 
-3. Interview Questions
+3. Study Procedure
 
 The full set of interview questions used during the data collection process.
 These are provided to support reproducibility and transparency in the research methodology.
