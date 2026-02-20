@@ -1,6 +1,6 @@
 ## Study Procedure
 #### Screening Survey
-	[Consent form] <br>
+[Consent form] <br>
 1. What is your age?<br>
     (A) <18 (B) 18-25 (C) 26-35 (D) 36-45 (E) 46-60 (F) 60+ <br>
 2. What is your experience with UI design?<br>
