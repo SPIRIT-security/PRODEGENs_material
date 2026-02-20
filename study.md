@@ -1,6 +1,6 @@
 ## Study Procedure
 #### Screening Survey
-[Consent form] <br>
+	[Consent form] <br>
 1. What is your age?<br>
     (A) <18 (B) 18-25 (C) 26-35 (D) 36-45 (E) 46-60 (F) 60+ <br>
 2. What is your experience with UI design?<br>
@@ -25,13 +25,13 @@
 #### Welcome message
 - Introduce the researchers
 
-	What we’ll do:
+- What we’ll do:
 	- Ask brief questions about your UI design background.​
 	- Give you two design tasks to complete in Figma Make.​
 	- Ask follow-up questions about your tasks.​
 	- Complete the follow-up survey after the interview.​
 
-	Please note:
+- Please note:
 	- There is no right or wrong. We will not evaluate your design. Our goal is to understand your perceptions and practices.
 	- Feel free to ask questions at any time.​
 
