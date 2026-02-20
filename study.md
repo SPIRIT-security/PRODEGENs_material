@@ -1,23 +1,23 @@
 ## Study Procedure
 #### Screening Survey
-**Consent form**
+[Consent form] <br>
 1. What is your age?<br>
-    (A) <18 (B) 18-25 (C) 26-35 (D) 36-45 (E) 46-60 (F) 60+
+    (A) <18 (B) 18-25 (C) 26-35 (D) 36-45 (E) 46-60 (F) 60+ <br>
 2. What is your experience with UI design?<br>
-	(A) No experience (B) Less than 1 year (C) 1-2 years (D) 3-5 years (E) More than 5 years
+	(A) No experience (B) Less than 1 year (C) 1-2 years (D) 3-5 years (E) More than 5 years <br>
 3. What is your experience with AI-powered UI design tools (e.g., Figma Make)?<br>
     	(A) No experience (B) Less than 1 year (C) More than 1 year <br>
 [If “<18” to Q1 or “no experience” to Q2 or Q3, quit the survey and thank the participant] <br>
 4. What is your gender identity?<br>
-	(A) Male (B) Female (C) Non-binary (D) Prefer not to say
+	(A) Male (B) Female (C) Non-binary (D) Prefer not to say <br>
 5. What is the highest level of education you have completed?<br>
 (A) Some high school or less (B) High school diploma or GED <br>
 (C) Some college, but no degree (D) Associates or technical degree<br>
 (E) Bachelor’s degree <br>
 (F) Graduate or professional degree (MA, MS, MBA, PhD, JD, MD, DDS, etc.)<br>
-(G) Prefer not to say
+(G) Prefer not to say <br>
 6. What AI-powered UI design tool(s) have you used? [open text box] <br>
-7. Are you able to participate in the study via Zoom (audio and screen sharing required; video optional)?<br>
+7. Are you able to participate in the study via Zoom?<br>
 	(A) yes (B) no <br>
 8. Thanks very much for your interest in our study. We will contact you to schedule the study. Please enter an email address by which we can contact you. [open text box] <br>
 9. If you have any other questions or information, please enter them here. [open text box] <br>
@@ -25,15 +25,15 @@
 #### Welcome message
 - Introduce the researchers
 
-**What we’ll do:**
-- Ask brief questions about your UI design background.​
-- Give you two design tasks to complete in Figma Make.​
-- Ask follow-up questions about your tasks.​
-- Complete the follow-up survey after the interview.​
+	What we’ll do:
+	- Ask brief questions about your UI design background.​
+	- Give you two design tasks to complete in Figma Make.​
+	- Ask follow-up questions about your tasks.​
+	- Complete the follow-up survey after the interview.​
 
-**Please note:**
-- There is no right or wrong. We will not evaluate your design. Our goal is to understand your perceptions and practices.
-- Feel free to ask questions at any time.​
+	Please note:
+	- There is no right or wrong. We will not evaluate your design. Our goal is to understand your perceptions and practices.
+	- Feel free to ask questions at any time.​
 
 #### Background Questions
 1. How many years of experience do you have in UI/UX design?
@@ -45,8 +45,7 @@
 #### Task Description
 Please imagine you are asked to design several UIs, and complete the following two UI design tasks in Figma Make.​
 
-
-**Reminder: There’s no right or wrong.**
+Reminder: There’s no right or wrong.
 
 #### Introducing Figma Make
 <img src="figma_make.png" width="600">
