@@ -33,7 +33,8 @@
 
 - Please note:
 	- There is no right or wrong. We will not evaluate your design. Our goal is to understand your perceptions and practices.
-	- Feel free to ask questions at any time.​
+	- Feel free to ask questions at any time.
+ 	- You can stop the study at any time if you have concerns.​
 
 #### Background Questions
 1. How many years of experience do you have in UI/UX design?
@@ -45,7 +46,7 @@
 #### Task Description
 Please imagine you are asked to design several UIs, and complete the following two UI design tasks in Figma Make.​
 
-Reminder: There’s no right or wrong.
+Reminder: There’s no right or wrong. We will not evaluate your design.
 
 #### Introducing Figma Make
 <img src="figma_make.png" width="600">
